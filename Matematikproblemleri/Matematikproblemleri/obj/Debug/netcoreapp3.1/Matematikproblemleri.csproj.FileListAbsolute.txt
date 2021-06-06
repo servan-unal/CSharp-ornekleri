@@ -1,0 +1,15 @@
+C:\Users\BT-LENOVO\source\repos\Matematikproblemleri\Matematikproblemleri\obj\Debug\netcoreapp3.1\Matematikproblemleri.csprojAssemblyReference.cache
+C:\Users\BT-LENOVO\source\repos\Matematikproblemleri\Matematikproblemleri\obj\Debug\netcoreapp3.1\Matematikproblemleri.Form1.resources
+C:\Users\BT-LENOVO\source\repos\Matematikproblemleri\Matematikproblemleri\obj\Debug\netcoreapp3.1\Matematikproblemleri.csproj.GenerateResource.cache
+C:\Users\BT-LENOVO\source\repos\Matematikproblemleri\Matematikproblemleri\obj\Debug\netcoreapp3.1\Matematikproblemleri.AssemblyInfoInputs.cache
+C:\Users\BT-LENOVO\source\repos\Matematikproblemleri\Matematikproblemleri\obj\Debug\netcoreapp3.1\Matematikproblemleri.AssemblyInfo.cs
+C:\Users\BT-LENOVO\source\repos\Matematikproblemleri\Matematikproblemleri\obj\Debug\netcoreapp3.1\Matematikproblemleri.csproj.CoreCompileInputs.cache
+C:\Users\BT-LENOVO\source\repos\Matematikproblemleri\Matematikproblemleri\bin\Debug\netcoreapp3.1\Matematikproblemleri.exe
+C:\Users\BT-LENOVO\source\repos\Matematikproblemleri\Matematikproblemleri\bin\Debug\netcoreapp3.1\Matematikproblemleri.deps.json
+C:\Users\BT-LENOVO\source\repos\Matematikproblemleri\Matematikproblemleri\bin\Debug\netcoreapp3.1\Matematikproblemleri.runtimeconfig.json
+C:\Users\BT-LENOVO\source\repos\Matematikproblemleri\Matematikproblemleri\bin\Debug\netcoreapp3.1\Matematikproblemleri.runtimeconfig.dev.json
+C:\Users\BT-LENOVO\source\repos\Matematikproblemleri\Matematikproblemleri\bin\Debug\netcoreapp3.1\Matematikproblemleri.dll
+C:\Users\BT-LENOVO\source\repos\Matematikproblemleri\Matematikproblemleri\bin\Debug\netcoreapp3.1\Matematikproblemleri.pdb
+C:\Users\BT-LENOVO\source\repos\Matematikproblemleri\Matematikproblemleri\obj\Debug\netcoreapp3.1\Matematikproblemleri.dll
+C:\Users\BT-LENOVO\source\repos\Matematikproblemleri\Matematikproblemleri\obj\Debug\netcoreapp3.1\Matematikproblemleri.pdb
+C:\Users\BT-LENOVO\source\repos\Matematikproblemleri\Matematikproblemleri\obj\Debug\netcoreapp3.1\Matematikproblemleri.genruntimeconfig.cache

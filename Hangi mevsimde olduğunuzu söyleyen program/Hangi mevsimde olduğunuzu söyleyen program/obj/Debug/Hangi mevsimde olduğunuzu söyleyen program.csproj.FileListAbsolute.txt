@@ -1,0 +1,7 @@
+C:\Users\BT-LENOVO\source\repos\Hangi mevsimde olduğunuzu söyleyen program\Hangi mevsimde olduğunuzu söyleyen program\bin\Debug\Hangi mevsimde olduğunuzu söyleyen program.exe.config
+C:\Users\BT-LENOVO\source\repos\Hangi mevsimde olduğunuzu söyleyen program\Hangi mevsimde olduğunuzu söyleyen program\bin\Debug\Hangi mevsimde olduğunuzu söyleyen program.exe
+C:\Users\BT-LENOVO\source\repos\Hangi mevsimde olduğunuzu söyleyen program\Hangi mevsimde olduğunuzu söyleyen program\bin\Debug\Hangi mevsimde olduğunuzu söyleyen program.pdb
+C:\Users\BT-LENOVO\source\repos\Hangi mevsimde olduğunuzu söyleyen program\Hangi mevsimde olduğunuzu söyleyen program\obj\Debug\Hangi mevsimde olduğunuzu söyleyen program.csprojAssemblyReference.cache
+C:\Users\BT-LENOVO\source\repos\Hangi mevsimde olduğunuzu söyleyen program\Hangi mevsimde olduğunuzu söyleyen program\obj\Debug\Hangi mevsimde olduğunuzu söyleyen program.csproj.CoreCompileInputs.cache
+C:\Users\BT-LENOVO\source\repos\Hangi mevsimde olduğunuzu söyleyen program\Hangi mevsimde olduğunuzu söyleyen program\obj\Debug\Hangi mevsimde olduğunuzu söyleyen program.exe
+C:\Users\BT-LENOVO\source\repos\Hangi mevsimde olduğunuzu söyleyen program\Hangi mevsimde olduğunuzu söyleyen program\obj\Debug\Hangi mevsimde olduğunuzu söyleyen program.pdb

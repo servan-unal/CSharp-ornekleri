@@ -1,0 +1,7 @@
+C:\Users\BT-LENOVO\source\repos\aylar\aylar\obj\Debug\aylar.csprojAssemblyReference.cache
+C:\Users\BT-LENOVO\source\repos\aylar\aylar\obj\Debug\aylar.csproj.CoreCompileInputs.cache
+C:\Users\BT-LENOVO\source\repos\aylar\aylar\bin\Debug\aylar.exe.config
+C:\Users\BT-LENOVO\source\repos\aylar\aylar\bin\Debug\aylar.exe
+C:\Users\BT-LENOVO\source\repos\aylar\aylar\bin\Debug\aylar.pdb
+C:\Users\BT-LENOVO\source\repos\aylar\aylar\obj\Debug\aylar.exe
+C:\Users\BT-LENOVO\source\repos\aylar\aylar\obj\Debug\aylar.pdb
